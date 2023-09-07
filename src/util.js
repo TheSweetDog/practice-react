@@ -1,1 +1,0 @@
-let apiKey = "adnasdosasfalk1";
